@@ -1,0 +1,35 @@
+
+.headingTitle{
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+}
+
+.overallDescription{
+    font-size: 20px;
+    font-weight: bold;
+    color:white
+}
+
+.temperature{
+    margin-right: 20%;
+    margin-top: 15px;
+}
+
+.humidity{
+    margin-right: 20%;
+}
+
+.pressure{
+    margin-right: 20%;;
+}
+
+.overallReadings{
+    display: flex;
+    padding: 5px;
+    color: white;
+}
+
+.titleReading{
+    font-weight: bold;
+}
